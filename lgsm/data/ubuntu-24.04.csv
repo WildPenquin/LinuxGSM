@@ -81,7 +81,7 @@ onset,libmariadb-dev
 opfor
 pc
 pc2
-pmc,openjdk-21-jre
+pmc,openjdk-25-jre-headless
 ps
 pvkii
 pvr,libc++1
